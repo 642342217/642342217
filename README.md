@@ -1,6 +1,6 @@
 - 👋 Hi, I’m CHJ
 - 👀 I’m interested in front-end
-- 🌱 I’m currently learning vue & node
+- 🌱 I’m currently learning vue
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
